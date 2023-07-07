@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SanCody/simple-React-calculator.git/static/css/main.964fdded.css",
-    "main.js": "/SanCody/simple-React-calculator.git/static/js/main.d0687a74.js",
-    "index.html": "/SanCody/simple-React-calculator.git/index.html",
-    "main.964fdded.css.map": "/SanCody/simple-React-calculator.git/static/css/main.964fdded.css.map",
-    "main.d0687a74.js.map": "/SanCody/simple-React-calculator.git/static/js/main.d0687a74.js.map"
+    "main.css": "/simple-React-calculator/static/css/main.964fdded.css",
+    "main.js": "/simple-React-calculator/static/js/main.d0687a74.js",
+    "index.html": "/simple-React-calculator/index.html",
+    "main.964fdded.css.map": "/simple-React-calculator/static/css/main.964fdded.css.map",
+    "main.d0687a74.js.map": "/simple-React-calculator/static/js/main.d0687a74.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
